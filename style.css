@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.di {
+    color: white;
+
+}
+
+.h {
+    background-color: white;
+    padding: 10px;
+}
+
+.qwe {
+    background-color: #1B4F72;
+}
+
+.w {
+    background-color: #21618C;
+}
+
+.e {
+    background-color: #2874A6;
+}
+
+.r {
+    background-color: #2E86C1;
+}
+
+.t {
+    background-color: #3498DB;
+}
+
+.y {
+    background-color: #75bada;
+}
+
+.u {
+    background-color: #85C1E9;
+}
+
+.i {
+    background-color: #27AE60;
+}
+
+.o {
+    background-color: #fdedf3;
+}
+
+.p {
+    background-color: #fbd6e3;
+}
+
+.a {
+    background-color: #f8bfd4;
+}
+
+.s {
+    background-color: #f5a8c5;
+}
+
+.d {
+    background-color: #f391b5;
+}
+
+.d {
+    background-color: #f07aa6;
+}
+
+.f {
+    background-color: #dd4b81;
+}
+
+p {
+    padding: 5px;
+    margin: 0px;
+
+}
+
+body {
+    background-color: #bcbcbc;
+}
